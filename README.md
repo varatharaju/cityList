@@ -2,7 +2,7 @@
 
 i am fetching directly cities fdata from this site (http://www.latlong.net/category/cities-102-15.html) and migrating to db.
 
-I have return city migration script in db/seed.rb file.
+I have written city migration script in db/seed.rb file.
 
 Software requirement:
 =====================
